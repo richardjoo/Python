@@ -1,0 +1,22 @@
+everybody loves variables right?  ;-)
+
+>>> x = 123
+>>> x * 534
+65682
+
+
+simple enough!
+
+
+and you can even do this!
+
+>>> print x * 343
+42189
+>>> print 2*2
+4
+
+
+remember, this is different from print "x * 343"
+that will display   x * 343, not 42189, the actual value.
+
+
