@@ -1,19 +1,33 @@
 Python 2.7.2 (v2.7.2:8527427914a2, Jun 11 2011, 15:22:34) 
 [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
->>> print "let's do incorrect division"
+
 let's do incorrect division
 >>> 1/2
 0
->>> print "yeah!, I got 0 for 1/2, why? Because you have to do 1.0/2.0 to get correct division"
+
 yeah!, I got 0 for 1/2, why? Because you have to do 1.0/2.0 to get correct division
->>> print "how can I correct this?"
+
+
 how can I correct this?
->>> print "do this"
+
 do this
 >>> from __future__ import division
 >>> 1/2
 0.5
->>> print " :-) "
-:-) 
-`
+
+
+:-)
+so, 1/2 without from __future__ import division, it was an integer division.  uh.... what if you want to do the integer division?  easy.  use two slashes.
+
+>>> 1//2
+0
+
+>>> 1.0/2
+0.5
+
+
+happy coding!
+:-)
+
+
