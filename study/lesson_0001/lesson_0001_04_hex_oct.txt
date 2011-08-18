@@ -1,0 +1,14 @@
+You can easily convert Hexadecimals and Octals and I like it~  :-)
+
+>>> 0xAF
+175
+>>> 010
+8
+>>> 
+
+
+notice it has leading zero?
+
+happy coding!
+:-)
+
