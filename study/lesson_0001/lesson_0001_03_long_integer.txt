@@ -1,0 +1,17 @@
+python 2.2+ can handle long integer.  if you type
+
+>>> 1000000000000000000000000
+
+
+then you will get
+1000000000000000000000000L
+
+you may noticed "L" at the end to identify the Long Integer value.
+
+so, you can do something like
+
+>>> 592838753984729847L + 2395792834579238483964L + 234
+2396385673333223214045L
+
+
+
