@@ -1,0 +1,25 @@
+you use the modules by using "import"
+
+>>> import math
+>>> math.floor(99.9)
+99.0
+>>> 
+
+
+you can also use to bring more specific function
+and if you use this way, you don't have to use module prefix.  
+
+>>> from math import floor
+>>> floor(123.42)
+123.0
+>>> 
+
+
+
+You can even use variable to refer to the function.
+>>> surprise = math.floor
+>>> surprise(423.42)
+423.0
+>>> 
+
+
