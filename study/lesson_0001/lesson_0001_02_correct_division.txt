@@ -27,6 +27,29 @@ so, 1/2 without from __future__ import division, it was an integer division.  uh
 0.5
 
 
+Let's have some more fun here.
+
+>>> 10 / 3
+3.3333333333333335
+
+>>> 10 % 3     % is the mod operator
+1
+>>> 9 / 3
+3.0
+>>> 9 % 3
+0
+>>> 2.75 % 0.5
+0.25
+>>> 2 ** 3
+8
+>>> -3 ** 2     this is weird right?  yeah, but minus sign is a negation.  It negates to the result of "9"
+-9
+>>> (-3) ** 2    so, if you want -3^2, you need to wrap -3 with ( ).
+9
+
+
+
+
 happy coding!
 :-)
 
