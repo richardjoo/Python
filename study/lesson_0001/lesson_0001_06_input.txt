@@ -1,0 +1,42 @@
+How to get the value from the user?
+here is how.
+
+
+>>> input("What is your name?:  ")
+What is your name?:  Richard
+Traceback (most recent call last):
+File "<stdin>", line 1, in <module>
+File "<string>", line 1, in <module>
+NameError: name 'Richard' is not defined
+
+
+
+@_@
+got an error....
+uh.....  hold on... let's not go too fast here.  Let's just get the integer value, not the string :-)
+
+
+
+
+>>> input("What is your favorite number? ")
+What is your favorite number? 7
+7
+>>> 
+
+
+:-)
+
+
+
+
+now, let's assign the value to the variable.
+
+>>> x = input("x : ")
+x : 500
+>>> x * 100
+50000
+>>> 
+
+
+
+
