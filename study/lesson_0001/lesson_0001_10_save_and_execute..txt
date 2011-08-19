@@ -1,0 +1,25 @@
+now, it is time to create a code and run it with python, instead of writing the code at the command lines :-)
+create a code (I already did)...
+
+lesson_0001_010.py 
+
+that will ask you a name and display your name.
+
+you would run this like
+
+python lesson_0001.010.py
+
+enjoy!  :-)
+
+
+
+here is what I excuted:
+
+new-host:lesson_0001 richardjoo$ python lesson_0001_10.py 
+What is your name? Richard
+Welcome to python, Richard!!!  :-D
+new-host:lesson_0001 richardjoo$
+
+
+
+

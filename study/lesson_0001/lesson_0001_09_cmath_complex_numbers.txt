@@ -1,0 +1,26 @@
+let's do sqrt(-1 and see what happens
+
+>>> from math import sqrt
+>>> sqrt(-1)
+Traceback (most recent call last):
+File "<stdin>", line 1, in <module>
+ValueError: math domain error
+
+so, if you use regular math library, and trying to do some complex math problems, then you would get an error like this.
+so, how to solve this?
+
+You will need to import the complex math library.
+
+
+>>> import cmath
+>>> cmath.sqrt(-1)
+1j
+
+
+and you can also do other things like
+>>> (2 + 4j) * (12 + 2j)
+(16+52j)
+>>> 
+
+
+
