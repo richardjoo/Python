@@ -1,0 +1,20 @@
+Every language has comments....
+@_@
+
+Python = use #
+
+
+like this
+
+# this is a comment
+# another line of comment
+#
+# I just put empty space after the comment above. and this is also a comment, by the way.
+# did you notice this is a comment too??
+# print "this is a comment"   IS a comment
+print "this is NOT a comment"
+# the line above is NOT a comment because I did not put # there.
+
+Why do I need to make a big deal about the comments?
+I dunno~  :-\
+
